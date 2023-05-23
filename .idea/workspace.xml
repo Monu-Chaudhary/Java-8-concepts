@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1028b5d3-ce5d-4382-8f5c-7c4f0880384b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exceptions/Checked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Exceptions/Unchecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equal/EqualDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equal/EqualDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equal/EqualDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/equal/EqualDemo4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/Users/monuchaudhary/Documents/Java projects/streamAPIs/src/main/java/org/example",
     "last_opened_file_path": "/Users/monuchaudhary/Documents/Java projects/streamAPIs",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -42,7 +45,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Checked">
+  <component name="RunManager" selected="Application.EqualDemo4">
     <configuration name="Checked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Exceptions.Checked" />
       <module name="Java8Concepts" />
@@ -56,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPIs.CreateStream" />
+    <configuration name="EqualDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equal.EqualDemo1" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StreamAPIs.*" />
+          <option name="PATTERN" value="org.example.equal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntermediateMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPIs.IntermediateMethods" />
+    <configuration name="EqualDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equal.EqualDemo2" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StreamAPIs.*" />
+          <option name="PATTERN" value="org.example.equal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TerminalMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.StreamAPIs.TerminalMethods" />
+    <configuration name="EqualDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equal.EqualDemo3" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.StreamAPIs.*" />
+          <option name="PATTERN" value="org.example.equal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Exceptions.Unchecked" />
+    <configuration name="EqualDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.equal.EqualDemo4" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Exceptions.*" />
+          <option name="PATTERN" value="org.example.equal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualDemo4" />
+        <item itemvalue="Application.EqualDemo3" />
+        <item itemvalue="Application.EqualDemo2" />
+        <item itemvalue="Application.EqualDemo1" />
         <item itemvalue="Application.Checked" />
-        <item itemvalue="Application.Unchecked" />
-        <item itemvalue="Application.TerminalMethods" />
-        <item itemvalue="Application.IntermediateMethods" />
-        <item itemvalue="Application.CreateStream" />
       </list>
     </recent_temporary>
   </component>
