@@ -11,15 +11,15 @@ public class EqualDemo1 {
         String s3 = new String("Hello");
 
         // == operator
-        System.out.println(s1==s2);
-        System.out.println(s2==s3);
+        System.out.println(s1==s2);     // true
+        System.out.println(s2==s3);     // false
 
         // .equals method
-        System.out.println(s1.equals(s2));
-        System.out.println(s1.equals(s3));
+        System.out.println(s1.equals(s2));  // true - same value
+        System.out.println(s1.equals(s3));  // true - same value
 
         s1 = "Hi";
-        System.out.println(s1==s2);
-        System.out.println(s1.equals(s3));
+        System.out.println(s1==s2);         //false
+        System.out.println(s1.equals(s3));  //false
     }
 }

@@ -6,12 +6,12 @@ public class EqualDemo4 {
         Object o = new Object();
         String s = new String();
 
-        System.out.println(t == o);
+        System.out.println(t == o);     // false
 //        System.out.println(t == s);   // incompatible comparison
-        System.out.println(o == s);
+        System.out.println(o == s);     // false
 
-        System.out.println(t.equals(o));
-        System.out.println(t.equals(s));
-        System.out.println(o.equals(s));
+        System.out.println(t.equals(o));    //false
+        System.out.println(t.equals(s));    //false
+        System.out.println(o.equals(s));    //false
     }
 }
