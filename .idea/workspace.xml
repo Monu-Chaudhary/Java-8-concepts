@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1028b5d3-ce5d-4382-8f5c-7c4f0880384b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/string/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/threadSafe/Wrapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FailSafe">
-    <configuration name="EqualsSymmetry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.equalsHashCode.EqualsSymmetry" />
+  <component name="RunManager" selected="Application.StringDemo1">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.List.Array" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.equalsHashCode.*" />
+          <option name="PATTERN" value="org.example.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FailFastFailSafe.FailFast" />
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.List.ArrayListExample" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.FailFastFailSafe.*" />
+          <option name="PATTERN" value="org.example.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FailSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FailFastFailSafe.FailSafe" />
+    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.List.string.StringDemo" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.FailFastFailSafe.*" />
+          <option name="PATTERN" value="org.example.List.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.equalsHashCode.equals" />
+    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.List.string.StringDemo1" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.equalsHashCode.*" />
+          <option name="PATTERN" value="org.example.List.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.equalsHashCode.hashCode" />
+    <configuration name="Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.threadSafe.Wrapper" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.equalsHashCode.*" />
+          <option name="PATTERN" value="org.example.threadSafe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FailSafe" />
-        <item itemvalue="Application.FailFast" />
-        <item itemvalue="Application.hashCode" />
-        <item itemvalue="Application.EqualsSymmetry" />
-        <item itemvalue="Application.equals" />
+        <item itemvalue="Application.StringDemo1" />
+        <item itemvalue="Application.StringDemo" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.Wrapper" />
       </list>
     </recent_temporary>
   </component>
