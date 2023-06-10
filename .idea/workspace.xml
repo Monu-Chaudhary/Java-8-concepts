@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1028b5d3-ce5d-4382-8f5c-7c4f0880384b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/List/string/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/threadSafe/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FunctionalInterface/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FunctionalInterface/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringDemo1">
+  <component name="RunManager" selected="Application.Demo1">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.List.Array" />
       <module name="Java8Concepts" />
@@ -59,12 +57,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.List.ArrayListExample" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FunctionalInterface.Demo1" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.List.*" />
+          <option name="PATTERN" value="org.example.FunctionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FunctionalInterface.Demo2" />
+      <module name="Java8Concepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.FunctionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.threadSafe.Wrapper" />
-      <module name="Java8Concepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.threadSafe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo2" />
         <item itemvalue="Application.StringDemo1" />
         <item itemvalue="Application.StringDemo" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.Wrapper" />
       </list>
     </recent_temporary>
   </component>
