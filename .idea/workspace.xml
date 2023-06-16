@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1028b5d3-ce5d-4382-8f5c-7c4f0880384b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FunctionalInterface/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FunctionalInterface/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OptionalClass/CreateOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OptionalClass/OptionalDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OptionalClass/OptionalDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Super/SuperDemo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Demo1">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.List.Array" />
+  <component name="RunManager" selected="Application.SuperDemo1">
+    <configuration name="CreateOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OptionalClass.CreateOptional" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.List.*" />
+          <option name="PATTERN" value="org.example.OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FunctionalInterface.Demo2" />
+    <configuration name="OptionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OptionalClass.OptionalDemo1" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.FunctionalInterface.*" />
+          <option name="PATTERN" value="org.example.OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.List.string.StringDemo" />
+    <configuration name="OptionalDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OptionalClass.OptionalDemo2" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.List.string.*" />
+          <option name="PATTERN" value="org.example.OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.List.string.StringDemo1" />
+    <configuration name="SuperDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Super.SuperDemo1" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.List.string.*" />
+          <option name="PATTERN" value="org.example.Super.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperDemo1" />
+        <item itemvalue="Application.OptionalDemo2" />
+        <item itemvalue="Application.CreateOptional" />
+        <item itemvalue="Application.OptionalDemo1" />
         <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.StringDemo1" />
-        <item itemvalue="Application.StringDemo" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
