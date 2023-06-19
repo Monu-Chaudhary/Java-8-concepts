@@ -7,6 +7,7 @@
     <list default="true" id="1028b5d3-ce5d-4382-8f5c-7c4f0880384b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailFast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FailFastFailSafe/FailSafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FailFast">
+  <component name="RunManager" selected="Application.FailSafe">
     <configuration name="CreateOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.OptionalClass.CreateOptional" />
       <module name="Java8Concepts" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.OptionalClass.OptionalDemo1" />
+    <configuration name="FailSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FailFastFailSafe.FailSafe" />
       <module name="Java8Concepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.OptionalClass.*" />
+          <option name="PATTERN" value="org.example.FailFastFailSafe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FailSafe" />
         <item itemvalue="Application.FailFast" />
         <item itemvalue="Application.SuperDemo1" />
         <item itemvalue="Application.OptionalDemo2" />
         <item itemvalue="Application.CreateOptional" />
-        <item itemvalue="Application.OptionalDemo1" />
       </list>
     </recent_temporary>
   </component>

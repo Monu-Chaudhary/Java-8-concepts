@@ -8,14 +8,15 @@ public class FailSafe {
         CopyOnWriteArrayList<Integer> arrayList = new CopyOnWriteArrayList<>(new Integer[] {1,2,3});
         Iterator<Integer> iterator = arrayList.iterator();
         while (iterator.hasNext()) {
-            if (iterator.next() == 3) {
+//            if (iterator.next() == 2) {
                 try {
                     arrayList.add(4);
                 }
                 finally {
                     System.out.println(arrayList);
                 }
-            }
+//            }
+            iterator.next();
         }
     }
 

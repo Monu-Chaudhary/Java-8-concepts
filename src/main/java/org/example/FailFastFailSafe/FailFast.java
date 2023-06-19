@@ -15,11 +15,12 @@ public class FailFast {
 
         while (iterator.hasNext()) {
             // do sth
-            if (iterator.next() == 1) {
+            if (iterator.next() == 2) {
                 try {
-                    count.add(4);   // will always throw exception
+//                    count.add(4);   // will always throw exception
 //                    count.remove(0);  // throw excepton???
 //                    count.remove(1);    // throw exception???
+                    iterator.remove();      // doesn't throw an exception because we are using iterators to remove elements
                 }
                 catch (ConcurrentModificationException e) {
                     System.out.println("Exception Occured:");
